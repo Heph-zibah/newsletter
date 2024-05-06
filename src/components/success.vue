@@ -20,6 +20,9 @@ const subscribedEmail = route.params.email;
         
       </div>
     </section>
+        <footer class="text-center text-darkSlateGrey text-sm pb-5">
+      <p>Challenge by <a href="https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv" class="text-tomato">Frontend Mentor</a>. Coded by <a href="https://www.frontendmentor.io/profile/Heph-zibah" class="text-tomato">oadaramola</a>.</p>
+    </footer>
   </main>
 </template>
 

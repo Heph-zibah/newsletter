@@ -10,8 +10,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -30,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/src/assets/Newsletter-Signup.png)
+![](/src/assets/design/newsletter-desktop.png)
 
 ### Links
 
-- Solution URL: [Solution URL ](https://your-solution-url.com)
+- Solution URL: [Solution URL ](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv/hub?share=true)
 - Live Site URL: [Live site URL](https://newsletter-signup-12345.vercel.app/)
 
 ## My process
@@ -48,12 +46,6 @@ Users should be able to:
 - [Vue](https://vuejs.org/) - JS library
 - [Vite](https://vitejs.dev/)
 - [TailwindCss](https://tailwindcss.com/) - For styles
-
-### What I learned
-
-
-
-### Continued development
 
 
 ## Author
