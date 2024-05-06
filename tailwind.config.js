@@ -2,6 +2,9 @@
 export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
+    fontFamily: {
+      family: ["Roboto", "sans-serif"],
+    },
     extend: {
       colors: {
         tomato: "#FF6257",
